@@ -17,7 +17,7 @@ Welcome to **Online Tribes** ("we", "our", "us")! By using our mobile applicatio
 
 ## 4. Privacy
 
-Your privacy is important to us. Our [Privacy Policy](link-to-privacy-policy) explains how we collect, use, and protect your personal information. By using the App, you consent to our collection and use of your data as outlined in the Privacy Policy.
+Your privacy is important to us. Our [Privacy Policy](https://budda24.github.io/privacy_police_online_tribes/privacy-police-en.html) explains how we collect, use, and protect your personal information. By using the App, you consent to our collection and use of your data as outlined in the Privacy Policy.
 
 ## 5. Intellectual Property
 
@@ -44,9 +44,5 @@ These Terms are governed by and construed in accordance with the laws of [Your C
 
 If you have any questions about these Terms, please contact us at:
 
-**Email**: support@yourapp.com  
-**Address**: 123 Your Street, Your City, Your Country
-
----
-
-_Last updated: [Date]_
+**Email**: franek@online-tribes.com
+**Address**: Śreniawitów, Warsaw, Poland
