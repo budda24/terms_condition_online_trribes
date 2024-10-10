@@ -17,7 +17,7 @@ Witamy w **Online Tribes** ("my", "nasz", "nas")! Korzystając z naszej aplikacj
 
 ## 4. Prywatność
 
-Twoja prywatność jest dla nas ważna. Nasza [Polityka Prywatności](https://budda24.github.io/privacy_police_online_tribes/privacy-police-pl.html) wyjaśnia, jak zbieramy, używamy i chronimy Twoje dane osobowe. Korzystając z Aplikacji, wyrażasz zgodę na zbieranie i wykorzystywanie Twoich danych zgodnie z naszą Polityką Prywatności.
+Twoja prywatność jest dla nas ważna. Nasza [Polityka Prywatności](https://buddamind.github.io/privacy_police_online_tribes/privacy-police-pl.html) wyjaśnia, jak zbieramy, używamy i chronimy Twoje dane osobowe. Korzystając z Aplikacji, wyrażasz zgodę na zbieranie i wykorzystywanie Twoich danych zgodnie z naszą Polityką Prywatności.
 
 ## 5. Własność intelektualna
 
