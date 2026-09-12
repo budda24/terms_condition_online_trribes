@@ -29,6 +29,7 @@ These Terms and Conditions ("**Terms**") govern your use of the App. By creating
 ## 4. Account Registration, Security & Termination
 
 - **Registration.** You must provide accurate, current, and complete information and keep it up to date.
+- **Identity verification.** Before you can take part in the community you must complete a one-time liveness check. The check is performed inside the SDK of our verification provider, Didit, requires your explicit consent, and captures a short selfie. You may optionally verify your identity with a government-issued document. Online Tribes never receives or stores your facial image, video, or any biometric template — we receive only the outcome. See Section 3 of our [Privacy Policy](https://buddamind.github.io/privacy_police_online_tribes/privacy-police-en.html).
 - **Security.** You are responsible for maintaining the confidentiality of your login credentials and for all activity under your Account. Notify us immediately at marianna@online-tribes.com of any unauthorized use or suspected breach.
 - **One account.** You may maintain one Account at a time, unless we expressly permit otherwise. Creating additional Accounts to evade a suspension or ban is a material breach of these Terms.
 - **Voluntary deletion.** You may delete your Account at any time from in-app settings. Your Account is deactivated immediately and permanently deleted after a **60-day reactivation window**, during which you may restore it by signing in again.
@@ -93,6 +94,7 @@ You agree not to, and not to attempt to:
 The App integrates the following third-party services. Your use of them is subject to their terms and privacy policies:
 
 - **Firebase** (Google LLC) — authentication, database, storage, analytics, crash reporting, push notifications.
+- **Didit** (didit.me) — identity and liveness verification. Processes selfie and, where you choose to verify your identity, document images as our data processor under a Data Processing Agreement concluded in accordance with Article 28 GDPR. Data is stored in the European Union.
 - **Apple Sign-In, Google Sign-In** — authentication.
 - **AppsFlyer** — attribution analytics.
 - **Meta (Facebook) App Events** — event analytics.
